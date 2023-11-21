@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **ReactJS & Javascript**
 
-- 🌱 I’m currently learning **ReactJS , Next JS , Redux , Javascript ,Typescript , Tailwind , SASS , MAaterial UI , CSS , HTML , SQL**
+- 🌱 I’m currently learning **ReactJS , Next JS , Redux , Javascript ,Typescript , Tailwind , SASS , Material UI , CSS , HTML , SQL**
 
 - 👯 I’m looking to collaborate on NextJs Project.
 
