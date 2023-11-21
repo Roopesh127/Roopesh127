@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roopesh127" alt="roopesh127" /></a> </p>
 
-- 🔭 I’m currently working on [Image Filter App](https://zingy-capybara-b70b2e.netlify.app/)
+- 🔭 I’m currently working on ReactJS , Javascript.
 
 - 🌱 I’m currently learning **ReactJS , Next JS , Redux , Javascript ,Typescript , Tailwind , SASS , MAaterial UI , CSS , HTML , SQL**
 
-- 👯 I’m looking to collaborate on [Quiz APP](https://tiny-fudge-aae3db.netlify.app/)
+- 👯 I’m looking to collaborate on NextJs Project.
 
-- 🤝 I’m looking for help with **Open Source contribution**
+- 🤝 I’m looking to contribute on **Open Source contribution**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Roopesh127](https://github.com/Roopesh127)
 
