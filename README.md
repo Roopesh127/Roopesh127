@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **ReactJS , Javascript**
 
-- 📫 How to reach me **roopesh.vishwakarma777@gmail.com**
+- 📫 How to reach me **roopeshvishwakarma7@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1UskGwOB55V9i-4dQ_0jszKVfOuVPExlG/view?usp=drivesdk](https://drive.google.com/file/d/1UskGwOB55V9i-4dQ_0jszKVfOuVPExlG/view?usp=drivesdk)
 
