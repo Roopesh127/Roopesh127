@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roopesh127" alt="roopesh127" /></a> </p>
 
-- 🔭 I’m currently working on **ReactJS & Javascript**
+- 🔭 I’m currently working on **ReactJS & NextJS**
 
 - 🌱 I’m currently learning **ReactJS , Next JS , Redux , Javascript ,Typescript , Tailwind , SASS , Material UI , CSS , HTML , SQL**
 
